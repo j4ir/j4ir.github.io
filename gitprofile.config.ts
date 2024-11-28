@@ -52,12 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio de Jair Roberto',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'jair-roberto',
     twitter: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
@@ -76,7 +76,6 @@ const CONFIG = {
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
   },
   resume: {
     fileUrl:
