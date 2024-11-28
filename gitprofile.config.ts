@@ -9,7 +9,7 @@ const CONFIG = {
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
-  base: '/',
+  base: '/gitprofile/',
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -58,11 +58,8 @@ const CONFIG = {
   },
   social: {
     linkedin: 'jair-roberto',
-<<<<<<< HEAD
-=======
-    twitter: 'arif_szn',
->>>>>>> 52c1b3498cb1b20a7a2ac9a18b23617cea5b0d48
-    mastodon: 'arifszn@mastodon.social',
+    twitter: '',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -77,12 +74,13 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.linkedin.com/in/jair-roberto/',
+    website: '',
     phone: '',
+    email: '',
   },
   resume: {
     fileUrl:
-      'https://www.linkedin.com/ambry/?x-li-ambry-ep=AQIUk1kpHzKttQAAAZN0l0vLVvikQJ9HY3HCSVBkoLJzRUbNa0v4s7A0daMAeCI3w5d0PIkxyDgJDLT8zOgMualeHuNfmFydeAlqMO7wdU-TMR5rl7NK_dRJ-X8lgU2ua4wdtyvqqjAJTM31_6veWakJgM-wck3Zi8-XlI_6EWOUDNbTXu0ncnI0XYvxkxlVbB038WV51H5t6WsqmO_HYzHZ-HFgl-Ve5vTH8YGcKfb0fgLKDK7A4pDO_-r7pSioiDCPIlpQmuHXBchOv2fww1Dr0pisCm6Vl2LlkEM5XuJuCtQyiBLDmGr-AQNMifrSTR6b_rlP2mQr6Io1Wl_dCov9OFJmqbJP9CYztpnASaM6bmivTZCkfz0NSmffpkYcgKIqmzewpApCS2S0P_8uUtI9OlNt9CId9-daAheB_qgZxInAH-Z8-OExt1u3or7CzFM1O1-v6iB636ZTTJvP6jkHcEXecMs6FHeLKRoQRKmruKQkgW5J5p2_klKiyqwysQ7nALHoXtdvozg-fa--8lwdTX0hxWSq93NDuBiebUAPZhtkTuT3Zby8_mIOtHf9iOq9SRU&x-ambry-um-filename=Profile.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.linkedin.com/ambry/?x-li-ambry-ep=AQJCjUQjYH2-AwAAAZN0p0xi7fguWOtwIhDxe0rUXA0bho9H5iEJpMp4Vh4hk5Gbofa0mzHtT1KbLh-r2Y14L52J79g8B8EXUZ-r2gWvEGm7Gbwp1BoMHn0J4dnTRSyFE8NcXAsK3vxhzxyx2DwqYL6lLP7RXs_FgFY7grJnpm54m0mRnExqPpa11F6XZivhwAN7s2LxOvRU3KgvVmquHkPVa3s8y3lJPxaA1np-89dwq4Ju7WKsxCJvLmBbm-NTr4vm_ykn9kmwnA3y7SLtayVXPjia0pCkcxJ37bwkkvJRIaqqen18XhHqzcNcSKE0KxYpoBV86ycjD0Cr2wfSe2dwBGQf75ZpgB5yFCMJ-NpNwVpYlGwsMPSVjxS_M6Ma892QbEIgXbXAmNK64heo_YJJryOVkv4HJfjl4XmEyTWbo3IqrK0r-6SC6L6zA8483JGC8U11IS_IvV0zk6qWe9Udb1tFGlIclzf02BlxAagGIFz0r3D_5Yu8CiDor1W8fJPsBm8EpfwzYNQuVgdv95OcU3aHzndZt3XrXi5-pARFE3mqPcTNr8TrVcgf1n_fOlr20v8&x-ambry-um-filename=Profile.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
