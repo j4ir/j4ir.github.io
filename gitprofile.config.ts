@@ -52,13 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio de Jair Roberto',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'jair-roberto',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
@@ -69,18 +68,17 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://www.linkedin.com/in/jair-roberto/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.linkedin.com/ambry/?x-li-ambry-ep=AQIUk1kpHzKttQAAAZN0l0vLVvikQJ9HY3HCSVBkoLJzRUbNa0v4s7A0daMAeCI3w5d0PIkxyDgJDLT8zOgMualeHuNfmFydeAlqMO7wdU-TMR5rl7NK_dRJ-X8lgU2ua4wdtyvqqjAJTM31_6veWakJgM-wck3Zi8-XlI_6EWOUDNbTXu0ncnI0XYvxkxlVbB038WV51H5t6WsqmO_HYzHZ-HFgl-Ve5vTH8YGcKfb0fgLKDK7A4pDO_-r7pSioiDCPIlpQmuHXBchOv2fww1Dr0pisCm6Vl2LlkEM5XuJuCtQyiBLDmGr-AQNMifrSTR6b_rlP2mQr6Io1Wl_dCov9OFJmqbJP9CYztpnASaM6bmivTZCkfz0NSmffpkYcgKIqmzewpApCS2S0P_8uUtI9OlNt9CId9-daAheB_qgZxInAH-Z8-OExt1u3or7CzFM1O1-v6iB636ZTTJvP6jkHcEXecMs6FHeLKRoQRKmruKQkgW5J5p2_klKiyqwysQ7nALHoXtdvozg-fa--8lwdTX0hxWSq93NDuBiebUAPZhtkTuT3Zby8_mIOtHf9iOq9SRU&x-ambry-um-filename=Profile.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
