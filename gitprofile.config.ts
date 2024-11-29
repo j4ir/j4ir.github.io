@@ -124,16 +124,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Etec Joaquim Ferreira do Amaral',
+      degree: 'Ensino Técnico, Técnico em mecânica',
+      from: '2022',
+      to: '2020',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Etec Comendador João Rays',
+      degree: 'Ensino Técnico, Técnico em logística',
+      from: '2019',
+      to: '2020',
     },
   ],
   publications: [
