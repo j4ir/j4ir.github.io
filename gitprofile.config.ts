@@ -122,7 +122,7 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
-  education: [
+  educations: [
     {
       institution: 'Anhanguera Educacional',
       degree: 'Ensino Tecnólogo, Tecnólogo em Gestão da Cadeia de Suprimentos e Logística',
