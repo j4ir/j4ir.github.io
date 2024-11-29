@@ -57,9 +57,9 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'jair-roberto',
+    twitter: '',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -69,18 +69,18 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: '',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.linkedin.com/ambry/?x-li-ambry-ep=AQI85dAkYGKNjQAAAZN4BtZNxmFavxEpGaorMVjPWNJLMlV56tVqCyZ6W9N7uymqi5jf8PwpoNRG7Cc5f3y4rkPFtYiqVuZYc2f_Ox86S11QBL1cENXn0WS78cxPAo_Y1H4pXJuYoSfpPsBYd0M_qzoL0q178TYAerJ8Yqur0-zFGYn2AZ2wGVzuS5tyNj7jh8h334hXB1DfAbujrDoqNeHy2rq_YDSafJgpEd6SFV7uRWrPSs0Ou10t3b99hXtWoNN2_nHi3T-a73n5mp_zm2eV91oGcowVTocoJ373zV6PrfC-TxL3ZHyRA6mkvjfh7TQbVaAPKnOERmEdKeiHtI_s0lROw7BNRdmR897IMYRntf1KTIV12WXvMgbOvqWIlHw20L2VFab_neIcRh3NWk1Dl_6vcgA9ta16L8RgSvFDUTXfZG720RQGUe9seicfuE2ExEtAgI9fbkaoYkbQaQrr7q7IN03F7uE4J6uPVS_r4JQ53JOrteXvrMop5Q2qJGJJJ0P8GJKmuQUF7QxHMgpKCl3zpIZZSulgmiTfKxS5MPE44uRvBSdHuCJNpQP0YhM-boE&x-ambry-um-filename=Profile.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
