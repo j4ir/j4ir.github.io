@@ -124,6 +124,12 @@ const CONFIG = {
   ],
   educations: [
     {
+      institution: 'Anhanguera Educacional',
+      degree: 'Ensino Tecnólogo, Tecnólogo em Gestão da Cadeia de Suprimentos e Logística',
+      from: '2024',
+      to: '2022',
+    },
+    {
       institution: 'Etec Joaquim Ferreira do Amaral',
       degree: 'Ensino Técnico, Técnico em mecânica',
       from: '2022',
