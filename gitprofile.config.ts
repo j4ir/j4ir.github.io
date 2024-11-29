@@ -98,7 +98,7 @@ const CONFIG = {
     'Antd',
     'Tailwind',
   ],
-  Experiencias: [
+  experiences: [
     {
       company: 'Company Name',
       position: 'Position',
@@ -114,7 +114,7 @@ const CONFIG = {
       companyLink: 'https://example.com',
     },
   ],
-  Certificacoes: [
+  certifications: [
     {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
@@ -122,7 +122,7 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
-  Educacao: [
+  education: [
     {
       institution: 'Anhanguera Educacional',
       degree: 'Ensino Tecnólogo, Tecnólogo em Gestão da Cadeia de Suprimentos e Logística',
